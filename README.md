@@ -1,4 +1,4 @@
-### Hi there!!!
+### Hi there!!! :bowtie:  
 
 I am Aryan Ritwajeet Jha. Realife_Brahmin is my most common username on most sites, including Github (slight variations may be necessary to fit the site's username needs).
 - Strengths: A Friendly Friend. NOT afraid of getting out of my technical comfort zone.
