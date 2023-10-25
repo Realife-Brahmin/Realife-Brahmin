@@ -7,7 +7,7 @@ A Friendly Friend. NOT afraid of getting out of my technical comfort zone.
 Reading
 ### Enjoy
 Working from computers at several locations as part of a uniform workflow.
-% ### Avoid
+### Avoid
 Global Variables, Undocumented Code, Absence of version control
 ### Latest Excitements
 Metaprogramming. My relationship with ChatGPT4. Like Joaquin Phoenix and his AI, but productive.
