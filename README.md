@@ -48,14 +48,14 @@ Absence of version control
 <td>
 
 Metaprogramming.<br>
-Relationship with ChatGPT4.<br>
-Like Joaquin Phoenix and his AI, but productive.
+My relationship with ChatGPT4.<br>
+➡️ Like Joaquin Phoenix and his AI, but productive.
 
 </td>
 <td>
 
 Metaprogramming.<br>
-Bland food.
+Bland food
 
 </td>
 </tr>
