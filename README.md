@@ -8,10 +8,10 @@ I am Aryan Ritwajeet Jha (🇮🇳, currently in :us:). Realife_Brahmin is my mo
    - Reading
 ### Enjoy
   - Working from computers at several locations as part of a uniform workflow.
-### Avoid
-  - Global Variables
-  - Undocumented Code
-  - Absence of version control
+% ### Avoid
+%  - Global Variables
+%  - Undocumented Code
+%  - Absence of version control
 ### Latest Excitements
   - Metaprogramming
   - My relationship with ChatGPT4. Like Joaquin Phoenix and his AI, but productive.
