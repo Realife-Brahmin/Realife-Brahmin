@@ -17,7 +17,7 @@ NOT afraid of getting out of my technical comfort zone.
 </td>
 <td>
 
-Reading
+Sleep Hygiene
 
 </td>
 </tr>
