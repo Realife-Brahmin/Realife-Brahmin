@@ -47,14 +47,13 @@ Absence of version control
 <tr valign="top">
 <td>
 
-Metaprogramming.<br>
-My relationship with ChatGPT4.<br>
-➡️ Like Joaquin Phoenix and his AI, but productive.
+That Julia+JuMP is ridiculously fast and easy to work with for your optimization needs.<br>
+GitHub Pro (If you're a student, you get it for free)
 
 </td>
 <td>
 
-Metaprogramming.<br>
+Yet to understand how modules work in julia <br>
 Bland food
 
 </td>
