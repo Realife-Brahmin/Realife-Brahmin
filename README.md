@@ -29,8 +29,9 @@ Sleep Hygiene
 <td>
 
 Working from computers at several locations<br>
-as part of a uniform workflow.
-
+as part of a uniform workflow. <br>
+Spending the first hour(s) of a project on <br>
+deciding on the workspace theme
 </td>
 <td>
 
@@ -47,7 +48,8 @@ Absence of version control
 <tr valign="top">
 <td>
 
-That Julia+JuMP is ridiculously fast and easy to work with for your optimization needs.<br>
+That Julia+JuMP is ridiculously fast and easy <br>
+to work with for your optimization needs.<br>
 GitHub Pro (If you're a student, you get it for free)
 
 </td>
