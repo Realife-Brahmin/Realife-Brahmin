@@ -48,13 +48,15 @@ Absence of version control
 <tr valign="top">
 <td>
 
-That Julia+JuMP is ridiculously fast and easy <br>
-to work with for your optimization needs.<br>
-GitHub Pro (If you're a student, you get it for free)
+Officemaxxing since my last internship <br>
+-- Timesheets, Better sense of task prioritization, Attires <br>
+Now ChatGPT also makes my daily routine <br>
+GitHub Pro has become even better now
 
 </td>
 <td>
 
+My algos not converging <br>
 Yet to understand how modules work in julia <br>
 Bland food
 
