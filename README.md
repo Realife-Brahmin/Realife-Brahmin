@@ -50,8 +50,7 @@ Absence of version control
 
 Officemaxxing since my last internship <br>
 -- Timesheets, Better sense of task prioritization, Attires <br>
-Now ChatGPT also makes my daily routine <br>
-GitHub Pro has become even better now
+Friendship with Copilot over, now Claude Code is my best friend <br>
 
 </td>
 <td>
