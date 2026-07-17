@@ -1,6 +1,6 @@
 <p align="left">
   <strong>Hi there!!!</strong><br>
-I am Aryan Ritwajeet Jha (🇮🇳, currently in 🇺🇸). Realife_Brahmin is my most common username on most sites, including GitHub (slight variations may be necessary to fit the site's username needs).
+  I am Aryan Ritwajeet Jha (🇮🇳, currently in 🇺🇸). Realife_Brahmin is my most common username on most sites, including GitHub (slight variations may be necessary to fit the site's username needs).
 </p>
 
 <table>
@@ -21,6 +21,7 @@ Sleep Hygiene
 
 </td>
 </tr>
+
 <tr>
     <th>Enjoy</th>
     <th>Avoid</th>
@@ -29,18 +30,18 @@ Sleep Hygiene
 <td>
 
 Working from computers at several locations<br>
-as part of a uniform workflow. <br>
-Spending the first hour(s) of a project on <br>
-deciding on the workspace theme
+as part of a uniform workflow.<br>
+Spending the first hour(s) of a project on<br>
+deciding on the workspace theme.
+
 </td>
 <td>
 
-Global Variables<br>
-Undocumented Code<br>
 Absence of version control
 
 </td>
 </tr>
+
 <tr>
     <th>Latest Excitements</th>
     <th>Threats</th>
@@ -48,15 +49,14 @@ Absence of version control
 <tr valign="top">
 <td>
 
-Officemaxxing since my last internship <br>
--- Timesheets, Better sense of task prioritization, Attires <br>
-Friendship with Copilot over, now Claude Code is my best friend <br>
+My ChatGPT finally beginning to talk to<br>
+my mail, calendar, files, banking, and other parts of my life.<br>
+A less fragmented digital existence.
 
 </td>
 <td>
 
-My algos not converging <br>
-Yet to understand how modules work in julia <br>
+My algos not converging<br>
 Bland food
 
 </td>
