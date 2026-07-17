@@ -51,7 +51,6 @@ Absence of version control
 
 My ChatGPT finally beginning to talk to<br>
 my mail, calendar, files, banking, and other parts of my life.<br>
-A less fragmented digital existence.
 
 </td>
 <td>
