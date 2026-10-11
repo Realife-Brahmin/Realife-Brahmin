@@ -11,16 +11,25 @@
 <tr valign="top">
 <td>
 
-A Friendly Friend.<br>
-NOT afraid of getting out of my technical comfort zone.
+- A friendly friend.<br>
+- NOT afraid of getting out of my technical comfort zone. <br>
+- NOT afraid of looking  like a fool.
 
 </td>
 <td>
 
-Sleep Hygiene
+- Sleep hygiene. <br>
+- The psychological resilience of an infant and <br>
+the financial restraint of an addict when my AI tokens run out. <br> 
+- Rooms without clocks and calendars.
 
 </td>
 </tr>
+
+  <td colspan="2" align="center">
+    The conviction that well-defined, easily repeatable workflows
+    shouldn't be executed manually by me.
+  </td>
 
 <tr>
     <th>Enjoy</th>
@@ -29,15 +38,13 @@ Sleep Hygiene
 <tr valign="top">
 <td>
 
-Working from computers at several locations<br>
-as part of a uniform workflow.<br>
-Spending the first hour(s) of a project on<br>
-deciding on the workspace theme.
+Working across multiple computers and locations<br>
+as part of a unified workflow.
 
 </td>
 <td>
 
-Absence of version control
+Absence of version control.
 
 </td>
 </tr>
@@ -49,14 +56,15 @@ Absence of version control
 <tr valign="top">
 <td>
 
-My ChatGPT finally beginning to talk to<br>
-my mail, calendar, files, banking, and other parts of my life.<br>
+ChatGPT finally talking to my mail, calendar, files, <br>
+banking, and other parts of my life.<br>
+Take my data, connect the dots and give me perspective!
 
 </td>
 <td>
 
-My algos not converging<br>
-Bland food
+- My algos not converging.<br>
+- Bland food.
 
 </td>
 </tr>
